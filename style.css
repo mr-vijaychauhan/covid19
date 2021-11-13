@@ -1,0 +1,165 @@
+@media only screen and (max-width: 360px) {
+    
+    .mapboxgl-ctrl-top-right{
+      display: none;
+    }
+    .mapboxgl-canvas{
+      height: 500px;
+    }
+    .mapboxgl-popup-content h1 {
+      text-align: center;
+      font-size: 16px; 
+    }
+
+    .mapboxgl-popup-content p {
+      font-size: 14px;
+      line-height: 2px;
+      text-align: justify;
+    }
+    .mapboxgl-popup-content {
+      padding: 12px 18px 15px;
+    }
+    .tableFixHead{
+      margin-top:0
+    }
+}
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    #map {
+      position: absolute;
+      top: 62px;
+      bottom: 0;
+      width: auto;
+      /* height: 80%; */
+      height: 350px;
+    }
+
+    .mapboxgl-popup-content h1 {
+      text-align: center;
+      font-size: 16px;
+    }
+
+    .mapboxgl-popup-content p {
+      font-size: 14px;
+      line-height: 2px;
+      text-align: justify;
+    }
+
+    .mapboxgl-popup-close-button {
+      display: none;
+    }
+
+    .mapboxgl-popup-content {
+      padding: 12px 18px 15px;
+    }
+
+    .mapboxgl-ctrl-logo {
+      display: none;
+    }
+
+    .gmFWS {
+      height: 20px;
+      margin-right: 4px;
+      max-width: 100%;
+      vertical-align: bottom;
+      width: 20px;
+    }
+
+    .iframe-container {
+      position: relative;
+      width: 100%;
+      padding-bottom: 44%;
+      /* Ratio 16:9 ( 100%/16*9 = 56.25% ) default 36%*/
+    }
+
+    /*https://stackoverflow.com/questions/15668762/google-maps-with-bootstrap-not-responsive*/
+    .iframe-container>* {
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+    }
+
+    .mapboxgl-ctrl-logo {
+      display: none !important;
+    }
+
+    .tableFixHead {
+      overflow-y: auto;
+      height: 500px;
+      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16),
+        0 2px 10px 0 rgba(0, 0, 0, 0.12);
+      margin-top: 24px;
+    }
+
+    .tableFixHead thead th {
+      position: sticky;
+      top: 0;
+    }
+
+    .form-control {
+      width: 50% !important;
+    }
+
+    .table .thead-dark th {
+      color: #fff;
+      background-color: #00838f !important;
+      border-color: #00838f !important;
+    }
+
+    .img-fluid {
+      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16),
+        0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    }
+
+    .dot {
+      height: 10px;
+      width: 10px;
+      background-color: rgb(40, 165, 50);
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    .circle {
+      height: 5px;
+      width: 5px;
+      /* background-color:#00838f; */
+      background-image: radial-gradient(circle,
+          #00bdcf,
+          #006069,
+          rgba(255, 255, 255, 0.308));
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    .info-btn {
+      color: #fff;
+      background-color: #00838f !important;
+      border-color: #212324 !important;
+    }
+
+    .box {
+      border: 1px solid #dadce0;
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 32px;
+      box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.16),
+        0 2px 5px 0 rgba(0, 0, 0, 0.12);
+    }
+
+    .p p {
+      text-align: center;
+    }
+    
+    #map{
+      height: 100%;
+    }
