@@ -84,8 +84,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@mr_vijaychauhan](https://twitter.com/mr_vijaychauhan)
+Vijay Chauhan - [@mr_vijaychauhan](https://twitter.com/mr_vijaychauhan)
 
 Project Link: [https://github.com/mr-vijaychauhan/covid19](https://github.com/mr-vijaychauhan/covid19)
 
