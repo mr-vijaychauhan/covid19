@@ -50,7 +50,7 @@
 
 
 
-This Covid19 repo based on Covid-19 Coronavirus disease Case Tracker. You can check detail of coronavirus cases, recovered and death by country and cities using Map and data.
+This Covid19 repo based on Covid-19 Coronavirus disease Case Tracker. You can check detail of coronavirus cases, recovered and death by country and states using Map and data.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
