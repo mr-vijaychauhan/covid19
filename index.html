@@ -235,7 +235,7 @@
 <script>
   $(document).ready(function () {
     const last2 = new Date().getFullYear().toString().slice(-2);
-    $('#current-year').innerHTML(last2);
+    $('#current-year').text(last2);
     
     $("#myInput").on("keyup", function () {
       var value = $(this).val().toLowerCase();
