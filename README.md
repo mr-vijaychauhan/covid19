@@ -50,8 +50,15 @@
 [![Product Name Screen Shot][product-screenshot]](https://mr-vijaychauhan.github.io/covid19/)
 
 
+This GitHub repository contains the source code for a Covid-19 dashboard that provides an interactive and visual representation of the latest Covid-19 data and statistics. The dashboard is built using a combination of modern web technologies, including JavaScript, HTML, CSS, Bootstrap, and API.
 
-This Covid19 repo based on Covid-19 Coronavirus disease Case Tracker. You can check detail of coronavirus cases, recovered and death by country and states using Map and data.
+The dashboard uses Mapbox, a popular mapping platform, to display geographical data on a map. This allows users to easily see the spread of the virus across different regions and view information such as the number of confirmed cases and deaths. The Mapbox integration is achieved using JavaScript, which is used to fetch data from an API and display it on the map.
+
+The design of the dashboard is built using HTML and CSS, with the help of the Bootstrap framework. Bootstrap provides a responsive design that is optimized for both desktop and mobile devices, making it easy for users to access the information they need no matter what device they are using. The use of CSS also allows for customization of the visual appearance of the dashboard, making it possible to create a unique and appealing look and feel.
+
+The data displayed on the dashboard is fetched from a real-time API, which is updated regularly with the latest information. This ensures that the information displayed on the dashboard is always up-to-date and accurate, providing users with the most current data available. The use of an API also allows for easy integration with other data sources and platforms, making it possible to expand the functionality of the dashboard in the future.
+
+In summary, this GitHub repository contains a comprehensive Covid-19 dashboard built using JavaScript, Mapbox, HTML, CSS, Bootstrap, and API. The dashboard provides an interactive and visual representation of the latest Covid-19 data, and its modern web technologies make it both user-friendly and responsive.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
